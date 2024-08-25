@@ -1,0 +1,5 @@
+https://www.kaggle.com/code/gchan357/malaria-cell-images-class-by-cnn-f1-as-0-94-0-95/
+https://www.kaggle.com/code/gchan357/malaria-cell-images-class-by-cnn-f1-as-0-94-0-95/
+https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria/discussion?sort=undefined
+https://www.tensorflow.org/tutorials/images/classification
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5840030/#:~:text=Trophozoites%20can%20feature%20malarial%20pigment,same%20thin%20blood%20slide%20image.
