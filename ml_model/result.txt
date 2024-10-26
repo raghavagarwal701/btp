@@ -1,0 +1,2 @@
+[[0.8847401]]
+Predicted label: Parasitized
